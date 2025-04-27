@@ -5,7 +5,7 @@ I'm a **software developer** with a passion for **full-stack development**, syst
 I enjoy creating scalable, efficient solutions and continuously expanding my technical skill set.
 
 ## 🚀 About Me
-- 🎓 B.Sc. Computer Science student at **The Academic College of Tel-Aviv Yafo** (Graduation: 2025).
+- 🎓 B.Sc. Computer Science graduated at **The Academic College of Tel-Aviv Yafo** (Graduation: 2025).
 - 🎖️ Alumni of **Unit 8200**, specializing in real-time systems management and data analysis.
 - 💻 Hands-on experience in Java, C#, Spring Boot, .NET Framework, and React.
 - 🔍 Strong interest in backend engineering, multithreading, and building intuitive user interfaces.
