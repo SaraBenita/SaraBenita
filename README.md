@@ -1,31 +1,80 @@
-<h1 align="center">👋 Hi, I'm Sara Benita!</h1> <p align="center"> 🎓 Computer Science graduated | 🎯 Software Developer | ⚡ Passionate Problem Solver </p> <p align="center"> <a href="https://www.linkedin.com/in/sarabenita/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a> <a href="https://github.com/SaraBenita"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"></a> </p>
-🌟 About Me
-👩‍💻 Computer Science graduated at The Academic College of Tel-Aviv Yafo (Graduation: 2025)
+👋 Hi, I'm Sara Benita
+I'm a software developer with a passion for full-stack development, system design, and building user-centric applications.
+I enjoy creating scalable, efficient solutions and continuously expanding my technical skill set.
 
-🎖️ Alumni of Unit 8200 — specialized in data analysis and real-time system management
+🚀 About Me
+🎓 B.Sc. Computer Science student at The Academic College of Tel-Aviv Yafo (Graduation: 2025).
 
-💬 Fluent in Hebrew 🇮🇱 and English 🇺🇸, conversational in French 🇫🇷 and Spanish 🇪🇸
+🎖️ Alumni of Unit 8200, specializing in real-time systems management and data analysis.
 
-🚀 Always learning, always building, always growing
+💻 Hands-on experience in Java, C#, Spring Boot, .NET Framework, and React.
 
-🛠️ Technologies and Tools
-<p> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> </p>
-🚀 Featured Projects
-🔹 Stepper Application
-Technologies: Java, Multithreading, JSON/XML Serialization, HTTP
-Description:
-Built a multi-interface Java system for defining, executing, and managing processes with a user-friendly UI. Enables non-technical users to create and reuse workflows efficiently.
+🔍 Strong interest in backend engineering, multithreading, and building intuitive user interfaces.
 
-🔹 SafeChat - Hackathon Project
-Technologies: React, Node.js, Express, MongoDB
-Description:
-Secure chat platform detecting real-time exposure of private information.
-Developed in a Hackathon organized by QueenB & AppsFlyer, focusing on server-side development.
+📫 Feel free to reach out via email or connect on LinkedIn.
 
-🔹 Facebook WinForm Application
-Technologies: C# .NET WinForms, Facebook Graph API, Multithreading, OOP
-Description:
-Created a desktop application integrating Facebook's API, showcasing design patterns, asynchronous programming, and advanced UI interaction.
+🛠️ Technologies & Tools
+Programming Languages
+Java, C#, Python, C++, C
 
-📫 Let's Connect!
-<p> <a href="https://www.linkedin.com/in/sarabenita/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a> <a href="mailto:sara63101@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://github.com/SaraBenita"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"></a> </p>
+Web Development
+React, JavaScript, HTML, CSS
+
+Backend Frameworks
+Spring Boot, .NET Framework, JavaFX, WinForms
+
+Databases
+MongoDB, PostgreSQL
+
+Tools & Platforms
+Git, Docker, Postman, Wireshark
+
+🏆 Projects
+Stepper Application
+Generic Process Management System
+
+A Java-based application featuring console, desktop, and client-server interfaces for defining and executing complex workflows.
+
+🌟 Key Features:
+Multithreading support for efficient process management.
+
+User-friendly interface allowing non-technical users to operate workflows.
+
+Support for XML and JSON serialization.
+
+HTTP communication for client-server interaction.
+
+Built with Java, XML, JSON, and HTTP technologies.
+Explore the project here.
+
+SafeChat - Hackathon Project
+Secure Real-Time Chat Application
+
+A real-time chat platform developed to detect and alert on exposure of private information during conversations.
+
+🌟 Key Features:
+Server-side development with Node.js and Express.
+
+MongoDB integration for user and message storage.
+
+Real-time detection of sensitive data using JavaScript.
+
+Built with React, Node.js, Express, and MongoDB.
+Check out the project here.
+
+Facebook WinForm Application
+Desktop Application Integrating Facebook API
+
+A WinForms C# application providing interaction with Facebook’s Graph API, integrating asynchronous programming and design patterns.
+
+🌟 Key Features:
+OOP-based modular design.
+
+Multithreaded operations for smooth user experience.
+
+Fetching and displaying real-time Facebook data.
+
+Built with C#, .NET WinForms, and Facebook Graph API.
+View the project here.
+
+Explore more of my projects here.
