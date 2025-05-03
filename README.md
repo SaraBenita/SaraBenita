@@ -10,7 +10,7 @@ I enjoy creating scalable, efficient solutions and continuously expanding my tec
 - 💻 Hands-on experience in Java, C#, Spring Boot, .NET Framework, and React.
 - 🔍 Strong interest in backend engineering, multithreading, and building intuitive user interfaces.
 - 📫 Feel free to reach out via [email](mailto:sara63101@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/sarabenita/).
-
+>Link to my portfolio: [here](https://sara-benita-portfolio.vercel.app/)
 ---
 
 ## 🛠️ Technologies & Tools
@@ -79,6 +79,4 @@ A WinForms C# application providing interaction with Facebook’s Graph API, int
 > View the project [here](https://github.com/SaraBenita/FaceBook_WinForm_Application).
 
 ---
->Link to my portfolio: [here](https://sara-benita-portfolio.vercel.app/)
-
 Explore more of my projects [here](https://github.com/SaraBenita?tab=repositories).
