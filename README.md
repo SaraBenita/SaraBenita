@@ -79,5 +79,6 @@ A WinForms C# application providing interaction with Facebook’s Graph API, int
 > View the project [here](https://github.com/SaraBenita/FaceBook_WinForm_Application).
 
 ---
+>Link to my portfolio: [here](https://sara-benita-portfolio.vercel.app/)
 
 Explore more of my projects [here](https://github.com/SaraBenita?tab=repositories).
