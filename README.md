@@ -50,18 +50,24 @@ A Java-based application featuring console, desktop, and client-server interface
 
 ---
 
-### [SafeChat - Hackathon Project](https://github.com/SaraBenita/BeSafeHackathon2025)  
-**Secure Real-Time Chat Application**  
+### [ChatShield](https://github.com/SaraBenita/ChatShieldProject/tree/master)  
+**Privacy Protection Extension for WhatsApp Web**  
 
-A real-time chat platform developed to detect and alert on exposure of private information during conversations.
+A Chrome extension designed to enhance user privacy by scanning outgoing WhatsApp Web messages in real-time and
+alerting users when sensitive or private information is detected. The system integrates modern web technologies with
+AI-powered text analysis.
 
 #### 🌟 Key Features:
-- Server-side development with Node.js and Express.
-- MongoDB integration for user and message storage.
-- Real-time detection of sensitive data using JavaScript.
+-Real-time detection of sensitive or private information before sending messages.
+-Seamless integration with WhatsApp Web.
+-AI-driven message analysis powered by OpenAI language models.
+-Secure authentication and user management with JWT.
+-Data storage and logging using MongoDB for monitoring and improvement.
+-Scalable backend built with Node.js and Express.
+-Modern UI powered by React, HTML, CSS, and JavaScript.
 
-> Built with React, Node.js, Express, and MongoDB.  
-> Check out the project [here](https://github.com/SaraBenita/BeSafeHackathon2025).
+> Built with HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, JWT, and OpenAI API. 
+> Check out the project [here](https://github.com/SaraBenita/ChatShieldProject/tree/master).
 
 ---
 
@@ -77,6 +83,24 @@ A WinForms C# application providing interaction with Facebook’s Graph API, int
 
 > Built with C#, .NET WinForms, and Facebook Graph API.  
 > View the project [here](https://github.com/SaraBenita/FaceBook_WinForm_Application).
+
+---
+
+### [SafeChat - Hackathon Project](https://github.com/SaraBenita/BeSafeHackathon2025)  
+**Secure Real-Time Chat Application**  
+
+A real-time chat platform developed to detect and alert on exposure of private information during conversations.
+
+#### 🌟 Key Features:
+- Server-side development with Node.js and Express.
+- MongoDB integration for user and message storage.
+- Real-time detection of sensitive data using JavaScript.
+
+> Built with React, Node.js, Express, and MongoDB.  
+> Check out the project [here](https://github.com/SaraBenita/BeSafeHackathon2025).
+
+---
+
 
 ---
 Explore more of my projects [here](https://github.com/SaraBenita?tab=repositories).
