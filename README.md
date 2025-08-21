@@ -19,7 +19,7 @@ I enjoy creating scalable, efficient solutions and continuously expanding my tec
 - **Java, C#, Python, C++, C**
 
 ### Web Development
-- **React, JavaScript, HTML, CSS**
+- **React, JavaScript, HTML, CSS, Node.js**
 
 ### Backend Frameworks
 - **Spring Boot, .NET Framework, JavaFX, WinForms**
