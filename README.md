@@ -58,13 +58,13 @@ alerting users when sensitive or private information is detected. The system int
 AI-powered text analysis.
 
 #### 🌟 Key Features:
--Real-time detection of sensitive or private information before sending messages.
--Seamless integration with WhatsApp Web.
--AI-driven message analysis powered by OpenAI language models.
--Secure authentication and user management with JWT.
--Data storage and logging using MongoDB for monitoring and improvement.
--Scalable backend built with Node.js and Express.
--Modern UI powered by React, HTML, CSS, and JavaScript.
+- Real-time detection of sensitive or private information before sending messages.
+- Seamless integration with WhatsApp Web.
+- AI-driven message analysis powered by OpenAI language models.
+- Secure authentication and user management with JWT.
+- Data storage and logging using MongoDB for monitoring and improvement.
+- Scalable backend built with Node.js and Express.
+- Modern UI powered by React, HTML, CSS, and JavaScript.
 
 > Built with HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, JWT, and OpenAI API. 
 > Check out the project [here](https://github.com/SaraBenita/ChatShieldProject/tree/master).
