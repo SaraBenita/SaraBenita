@@ -66,7 +66,7 @@ AI-powered text analysis.
 - Scalable backend built with Node.js and Express.
 - Modern UI powered by React, HTML, CSS, and JavaScript.
 
-> Built with HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, JWT, and OpenAI API.
+> Built with HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, JWT, and OpenAI API.  
 > View the project [here](https://github.com/SaraBenita/ChatShieldProject/tree/master).
 
 ---
